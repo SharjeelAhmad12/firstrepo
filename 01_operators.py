@@ -10,5 +10,5 @@ print(3**2/2*3/3+6-4)
 #what is PEMDAS
 #parenthesis,exponents,multiply,divide,addition,substraction
 #() this is parenthesis jo be parenthesis ma ho ga sab se phale wo  solve ho ga
-
+print('hi')
 
